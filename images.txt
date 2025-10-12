@@ -1,1 +1,11 @@
-rockylinux:9.6
+nginx
+mysql
+wordpress
+httpd
+busybox
+redis
+mariadb
+centos:centos7.9.2009
+openjdk:8u342-jdk
+python
+tomcat:9.0.67-jdk8
