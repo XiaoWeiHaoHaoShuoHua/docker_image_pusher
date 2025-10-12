@@ -1,7 +1,1 @@
-nginx
-mysql
-wordpress
-httpd
-busybox
-redis
-mariadb
+centos:centos7.9.2009
