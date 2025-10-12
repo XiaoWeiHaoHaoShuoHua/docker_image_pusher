@@ -1,1 +1,2 @@
-tomcat:9.0.67-jdk8
+grafana:9.5.3
+rockylinux:9.6
