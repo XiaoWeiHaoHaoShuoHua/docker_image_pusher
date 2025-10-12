@@ -1,1 +1,1 @@
-zabbix-web-nginx-mysql
+php-fpm:8.4.7
