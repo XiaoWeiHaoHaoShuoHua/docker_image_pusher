@@ -1,1 +1,1 @@
-centos:centos7.9.2009
+zabbix-web-nginx-pgsql:7.4.0-alpine
