@@ -1,2 +1,2 @@
 grafana:9.5.3
-rockylinux:9.6
+
