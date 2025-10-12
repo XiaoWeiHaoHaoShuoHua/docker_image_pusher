@@ -1,1 +1,1 @@
-python
+tomcat:9.0.67-jdk8
