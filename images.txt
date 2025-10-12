@@ -1,1 +1,1 @@
-controller:v1.9.6
+kube-webhook-certgen:v1.5.0
