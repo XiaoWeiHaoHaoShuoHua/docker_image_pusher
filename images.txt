@@ -16,5 +16,5 @@ quay.io/devtron/grafana:7.3.1
 docker.io/logstash:9.0.3
 quay.io/jenkins-kubernetes-operator/operator:v0.8.1
 docker.io/library/kibana:9.1.2
-zabbix/zabbix-server-mysql:7.4
-zabbix/zabbix-web-nginx-mysql:7.4
+zabbix/zabbix-server-mysql
+zabbix/zabbix-web-nginx-mysql
