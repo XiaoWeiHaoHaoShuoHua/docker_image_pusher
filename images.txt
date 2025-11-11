@@ -9,3 +9,4 @@ centos:centos7.9.2009
 openjdk:8u342-jdk
 python
 tomcat:9.0.67-jdk8
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/zabbix/zabbix-web-nginx-pgsql:7.4.0-alpine
