@@ -9,7 +9,6 @@ centos:centos7.9.2009
 openjdk:8u342-jdk
 python
 tomcat:9.0.67-jdk8
-docker.io/zabbix/zabbix-web-nginx-pgsql:7.4.0-alpine
 docker.io/ubuntu/squid:latest
 registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
 docker.io/goharbor/trivy-adapter-photon:v2.7.4
@@ -17,3 +16,5 @@ quay.io/devtron/grafana:7.3.1
 docker.io/logstash:9.0.3
 quay.io/jenkins-kubernetes-operator/operator:v0.8.1
 docker.io/library/kibana:9.1.2
+zabbix/zabbix-server-mysql:7.4
+zabbix/zabbix-web-nginx-mysql:7.4
