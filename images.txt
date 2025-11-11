@@ -10,3 +10,4 @@ openjdk:8u342-jdk
 python
 tomcat:9.0.67-jdk8
 docker.io/zabbix/zabbix-web-nginx-pgsql:7.4.0-alpine
+docker.io/ubuntu/squid:latest
