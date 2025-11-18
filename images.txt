@@ -1,3 +1,4 @@
+zabbix-proxy-mysql:latest
 nginx
 mysql
 wordpress
